@@ -1,0 +1,8 @@
+var x, y, sum;
+
+begin
+    read(x);
+    read(y);
+    sum := x + y;
+    write(sum);
+end.
